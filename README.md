@@ -1,8 +1,8 @@
 <h3> 🙇‍♂️ &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 &nbsp; Estudando **Análise e Desenvolvimento de Sistemas** no <a href="link da sua faculdade">Fatec SP</a>.
-- 💼 &nbsp; Trabalhando como **Desenvolvedor Ruby e Ruby on Rails** na <a href="LINK DA EMPRESA">Infosimples</a>
+- 🎓 &nbsp; Estudando **Análise e Desenvolvimento de Sistemas** no <a href="http://www.fatecsp.br/">Fatec SP</a>.
+- 💼 &nbsp; Trabalhando como **Desenvolvedor Ruby e Ruby on Rails** na <a href="https://infosimples.com/">Infosimples</a>
 - 🌱 &nbsp; Aprendendo mais sobre **Elixir, Phoenix e Python**.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
@@ -53,3 +53,5 @@
 [![Linkedin: Lucas Amaral](https://img.shields.io/badge/-lucasamaral42-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucasamaral42)](https://www.linkedin.com/in/lucasamaral42)
 [![Gmail Badge](https://img.shields.io/badge/-lu.vinicius01@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lu.vinicius01@gmail.com)](mailto:lu.vinicius01@gmail.com)
 [![RocketSeat Badge](https://img.shields.io/badge/-RocketSeat-6633cc?style=flat-square&logo=Polymer-Project&logoColor=white&color=black&link=https://app.rocketseat.com.br/me/lucasamaral42)](https://app.rocketseat.com.br/me/lucasamaral42)
+
+⭐ by VanessaSwerts
