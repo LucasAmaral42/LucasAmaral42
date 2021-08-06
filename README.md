@@ -60,4 +60,4 @@
 [![Gmail Badge](https://img.shields.io/badge/-lu.vinicius01@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lu.vinicius01@gmail.com)](mailto:lu.vinicius01@gmail.com)
 [![RocketSeat Badge](https://img.shields.io/badge/-RocketSeat-6633cc?style=flat-square&logo=Polymer-Project&logoColor=white&color=black&link=https://app.rocketseat.com.br/me/lucasamaral42)](https://app.rocketseat.com.br/me/lucasamaral42)
 
-⭐ by VanessaSwerts
+⭐ Design by VanessaSwerts
