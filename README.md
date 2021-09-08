@@ -2,8 +2,8 @@
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Estudando **Análise e Desenvolvimento de Sistemas** no <a href="http://www.fatecsp.br/">Fatec SP</a>.
-- 💼 &nbsp; Trabalhando como **Desenvolvedor Ruby e Ruby on Rails** na <a href="https://infosimples.com/">Infosimples</a>
-- 🌱 &nbsp; Aprendendo mais sobre **Elixir, Phoenix e Python**.
+- 💼 &nbsp; Trabalhando como **Desenvolvedor Back End** na <a href="https://totalpass.com/">TotalPass</a>
+- 🌱 &nbsp; Aprendendo mais sobre **Elixir, Go e Python**.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
