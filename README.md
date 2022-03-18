@@ -43,7 +43,7 @@
 
   ![Windows](https://img.shields.io/badge/-Windows-333333?style=flat&logo=windows&logoColor=blue)
   ![Ubuntu](https://img.shields.io/badge/-Ubuntu-333333?style=flat&logo=ubuntu)
-  ![Manjaro](https://img.shields.io/badge/-fedora-333333?style=flat&logo=fedora&logoColor=blue)
+  ![PopOs](https://img.shields.io/badge/-popos-333333?style=flat&logo=popos&logoColor=blue)
 
 <br/>
 
