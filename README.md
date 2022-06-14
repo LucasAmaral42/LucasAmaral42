@@ -11,15 +11,15 @@
 
   ![Rails](https://img.shields.io/badge/rails-333333.svg?style=flat&logo=ruby-on-rails&logoColor=red)
   ![Ruby](https://img.shields.io/badge/ruby-333333.svg?style=flat&logo=ruby&logoColor=red)
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+  ![Elixir](https://img.shields.io/badge/-elixir-333333?style=flat&logo=elixir&logoColor=purple)
+  ![Python](https://img.shields.io/badge/-python-333333?style=flat&logo=python)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![Vue.js](https://img.shields.io/badge/-Vue.js-333333?style=flat&logo=Vue.js)
-  ![Python](https://img.shields.io/badge/-python-333333?style=flat&logo=python)
-  ![Elixir](https://img.shields.io/badge/-elixir-333333?style=flat&logo=elixir&logoColor=purple)
-  ![.Net](https://img.shields.io/badge/-.net-333333?style=flat&logo=.NET)
+  
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+  ![Postgresql](https://img.shields.io/badge/-Postgresql-333333?style=flat&logo=postgresql)
 
 **Utilidades**
 
