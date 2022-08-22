@@ -3,7 +3,7 @@
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Graduado em **Análise e Desenvolvimento de Sistemas** na <a href="http://www.fatecsp.br/">Fatec SP</a>.
 - 💼 &nbsp; Trabalhando como **Desenvolvedor Back End** na <a href="https://www.petlove.com.br/">Petlove&Co</a>
-- 🌱 &nbsp; Aprendendo mais sobre **Elixir e Go**.
+- 🌱 &nbsp; Aprendendo mais sobre **Elixir**.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
