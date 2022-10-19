@@ -47,12 +47,6 @@
 
 <br/>
 
-<a href="https://github.com/LucasAmaral42">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasAmaral42&theme=dracula&show_icons=true" />
-</a>
-
-<br/>
-
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
 [![Linkedin: Lucas Amaral](https://img.shields.io/badge/-lucasamaral42-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucasamaral42)](https://www.linkedin.com/in/lucasamaral42)
